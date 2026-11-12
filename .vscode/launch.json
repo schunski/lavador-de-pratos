@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Executar App",
+            "request": "launch",
+            "mainClass": "br.edu.utfpr.lavador.App",
+            "args": "2 2 10 FINE",
+            "console": "integratedTerminal"
+        }
+    ]
+}
